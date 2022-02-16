@@ -12,7 +12,7 @@ ENV BUILD_ARCHI = ${BUILD_ARCH}
 
 # Other settings
 ENV LANG C.UTF-8
-ENV DIYHUE_VERSION=beta
+ENV DIYHUE_VERSION=master
 ENV WORKING_DIR=/opt/hue-emulator
 ENV DEBUG=false
 
